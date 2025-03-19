@@ -12,3 +12,4 @@
 | PointVLA [[link]](https://arxiv.org/pdf/2503.07511v1) | UR5e | two D435i and one L515| <img src="images/PointVLA.png" width="200"> |
 | ObjectVLA [[link]](https://arxiv.org/pdf/2502.19250v2) | Franka | one D435i and two Zed| <img src="images/ObjectVLA.png" width="200"> |
 | LLARA [[link]](https://arxiv.org/pdf/2406.20095v3) | Franka | one RGB camera| <img src="images/LLaRA.png" width="200"> |
+| 3D Diffusion Policy [[link]](https://arxiv.org/pdf/2403.03954) | Franka | one L515| <img src="images/3D DP.png" width="200"> |
