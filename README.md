@@ -1,6 +1,6 @@
 # robotics-data-collection-setup
 
-## Single-Arm Robot Data Collection Setup Comparison
+## Robot Data Collection Setup Comparison
 
 | Paper Title | Robot Brand| Sensor Type | Image |
 |-------------|-------------|-------------|-------|
