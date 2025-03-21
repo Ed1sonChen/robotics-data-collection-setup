@@ -4,6 +4,8 @@
 
 | Paper Title | Robot Brand| Sensor Type | Image |
 |-------------|-------------|-------------|-------|
+| ReKep [[link]](https://arxiv.org/pdf/2409.01652)     | Franka    | two rgb-d | <img src="images/ReKep_singlearm.png" width="200"> |
+| Rekep [[link]](https://arxiv.org/pdf/2409.01652)     | Franka | three rgb-d | <img src="images/ReKep_dualarm.png" width="200"> |
 | RoboMIND [[link]](https://x-humanoid-robomind.github.io/)     | UR5    | one Realsense D435i | <img src="images/Robotmind_UR.png" width="200"> |
 | RoboMIND [[link]](https://x-humanoid-robomind.github.io/)     | Franka | three Realsense D435i | <img src="images/Robotmind_Franka.png" width="200"> |
 | BridgeData V2 [[link]](https://rail-berkeley.github.io/bridgedata/)     | WindowX 250 | one D435 and two C920 | <img src="images/BridgeV2.png" width="200"> |
