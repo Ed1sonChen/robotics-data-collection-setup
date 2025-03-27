@@ -16,4 +16,5 @@
 | LLARA [[link]](https://arxiv.org/pdf/2406.20095v3) | Franka | one RGB camera| <img src="images/LLaRA.png" width="200"> |
 | 3D Diffusion Policy [[link]](https://arxiv.org/pdf/2403.03954) | Franka | one L515| <img src="images/3D DP.png" width="200"> |
 | MoLe-VLA [[link]](https://arxiv.org/pdf/2503.20384v1) | Franka | Gorpo 9| <img src="images/MoLe_VLA.png" width="200"> |
+| Dita [[link]](https://arxiv.org/pdf/2503.19757v1) | Franka | D435i| <img src="images/Dita.png" width="200"> |
 
